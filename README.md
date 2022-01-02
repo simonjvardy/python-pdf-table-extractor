@@ -1,6 +1,6 @@
 ![My Logo](https://github.com/simonjvardy/simonjvardy/blob/main/assets/img/GitHub-name.png)
 
-# Python - PDF Table Extractor App
+# Python - PDF Table Extractor App #
 
 ## About ##
 
@@ -71,7 +71,6 @@ git clone https://github.com/simonjvardy/python-pdf-table-extractor.git
 ```Python
 TODO
 ```
-
 
 ---
 
