@@ -64,6 +64,14 @@ git clone https://github.com/simonjvardy/python-pdf-table-extractor.git
 
 *Note: The process may be different depending upon your own OS - please follow this [Python help guide](https://python.readthedocs.io/en/latest/library/venv.html) to understand how to create a virtual environment.*
 
+#### **Install the Python Libraries** ####
+
+Run the following command in your terminal window:
+
+```Python
+pip install -r requirements.txt
+```
+
 #### **Run the application locally** ####
 
 - TODO
