@@ -23,7 +23,7 @@ This small utility app was created to help with the tedious task of extracting d
   - Flask is a micro web framework written in Python.
 
 - [Camelot](https://pypi.org/project/camelot-py/)
-  - Camelot is a Python library that can help you extract tables from PDFs
+  - Camelot is a Python library that can help you extract tables from PDFs.
 
 ### **Tools** ###
 
