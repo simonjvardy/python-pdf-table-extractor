@@ -49,7 +49,7 @@ Ensure the following are installed locally on your computer:
 
 #### **Online Camelot Installation Guide** ####
 
-- [Camelot Docuentation](https://camelot-py.readthedocs.io/en/master/)
+- [Camelot Documentation](https://camelot-py.readthedocs.io/en/master/)
 
 #### **Cloning the GitHub repository** ####
 
