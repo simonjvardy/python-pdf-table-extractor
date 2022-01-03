@@ -45,6 +45,7 @@ Ensure the following are installed locally on your computer:
 - [Python 3.6 or higher](https://www.python.org/downloads/)
 - [PIP3](https://pypi.org/project/pip/) Python package installer
 - [Git](https://git-scm.com/) Version Control
+- [Ghostscript](https://www.ghostscript.com/) Ghostscript is an interpreter for the PostScript®  language and PDF files
 
 #### **Cloning the GitHub repository** ####
 
