@@ -47,6 +47,10 @@ Ensure the following are installed locally on your computer:
 - [Git](https://git-scm.com/) Version Control
 - [Ghostscript](https://www.ghostscript.com/) Ghostscript is an interpreter for the PostScript®  language and PDF files
 
+#### **Online Camelot Installation Guide** ####
+
+- [Camelot Docuentation](https://camelot-py.readthedocs.io/en/master/)
+
 #### **Cloning the GitHub repository** ####
 
 - navigate to [simonjvardy/python-pdf-table-extractor](https://github.com/simonjvardy/python-pdf-table-extractor) GitHub repository.
