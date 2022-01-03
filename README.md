@@ -82,9 +82,11 @@ pip install -r requirements.txt
 - TODO
 
 ```Python
-TODO
+python app.py
 ```
 
 ---
 
 ## Acknowledgements ##
+
+- [freeCodeCamp]https://www.youtube.com/watch?v=s8XjEuplx_U) YouTube video Python automation tutorial.
